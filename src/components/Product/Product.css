@@ -4,6 +4,7 @@
      border: 1px solid #95A0A7;
      border-radius: 8px;
      position: relative;
+     color: black;
 }
 
 .product img {
@@ -22,7 +23,6 @@
      font-size: 21px;
      line-height: 25px;
      letter-spacing: 0.0015em;
-     color: white;
 }
 
 .product-info {
@@ -35,6 +35,7 @@
 .btn-cart {
      width: 100%;
      background: #FFE0B3;
+     color: black;
      border: 1px solid #95A0A7;
      border-radius: 0px 0px 8px 8px;
      position: absolute;
